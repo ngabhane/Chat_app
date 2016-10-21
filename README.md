@@ -1,4 +1,4 @@
 - This is a chat application created using Python and django. 
 - Users can be added through admin panel only.
 - On the start of application you will be redirected to login page.
-- After login it will display message history.
+- After login it will display message history. Here you can send and receive messages.
