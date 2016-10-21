@@ -1,0 +1,8 @@
+First run virtual environment by command => source v/source/activate
+Only requirement for this project is django. Command to install django => pip install django
+
+How to run?
+=> Go to the folder where manage.py is located (/chat_app) and run command  => python manage.py runserver
+
+Open localhost:8000 in two browsers or use incognito tab. login with with two different users (refer README.md) and start chatting.
+
